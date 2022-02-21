@@ -1,4 +1,4 @@
-package com.example.gb_calc;
+package com.example.gb_calculator;
 
 import org.junit.Test;
 
