@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="CalcNumberBtnStyle.OperationsBtn">
+        <item name="android:backgroundTint">@color/dark_orange</item>
+    </style>
+</resources>

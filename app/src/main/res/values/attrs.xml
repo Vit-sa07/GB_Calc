@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="myNumberButtonColor" format="color" />
+    <attr name="myOperationsButtonColor" format="color" />
+    <attr name="myAcButtonColor" format="color" />
+</resources>
